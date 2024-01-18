@@ -1,0 +1,23 @@
+.text-center {
+    text-align: center !important;
+}
+.btn-outline-light:hover {
+    color: #212529;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+}
+.mr-2, .mx-2 {
+    margin-right: 0.5rem !important;
+}
+.fa-download:before {
+    content: "\f019";
+}
+.mr-2, .mx-2 {
+    margin-right: 0.5rem !important;
+}
+.btn-xl {
+    padding: 1rem 1.75rem;
+    font-size: 1.25rem;
+}
+
+
